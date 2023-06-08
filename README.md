@@ -3,3 +3,5 @@
 
 * 2023년 6월 7일
   * Markdown, git command, 모집단과 표본, 확률 모형
+* 2023년 6월 8일
+  * git command, branch, 이산형 확률변수, 이산형 확률분포 일부
