@@ -14,7 +14,6 @@
 
 ### git 명령어
 
-
 * git init
   * cwd에 .git 폴더를 생성하며 initalize.
 * git status
@@ -35,6 +34,14 @@
   * origin이라는 이름의 remote 저장소 추가.
 * git push origin main
   * origin이라는 이름의 remote 저장소의 main 브런치에 push.
+* git config --global init.defaultBranch main
+  * 기본 브런치 이름을 main으로 변경
+* git config --global user.name "`<username>`"
+  * 글로벌 유저 이름 설정
+* git config --global user.email "`<email>`"
+  * 글로벌 유저 이메일 설정
+* git branch --set-upstream-to=origin/`<branch>` main
+  * 원격 저장소와 브런치 이름이 일치하지 않은 경우
 
 <br/>
 
@@ -116,9 +123,13 @@ hist, bin_edges = numpy.histogram(a, bins=10, range=None, density=None, weights=
   * [The N-dimensional array](https://numpy.org/doc/stable/reference/arrays.ndarray.html)
 ```python
 # csv 형태로 저장된 파일을 읽는 함수
+# pandas.read_csv(...)
 # return: pandas.core.frame.DataFrame
 #
-# 배열로 사용하기 위해 np.array(df['col_name']) 호출 필요
+# 사용하기 위해 형변환 필요. 
+# ex: np.array(df['col_name'])
+#
+# df -> pandas.core.frame.DataFrame
 # df['col_name'] -> pandas.core.series.Series
 # np.array(...) -> numpy.ndarray
 df = pandas.read_csv(path)
