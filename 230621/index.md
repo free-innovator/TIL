@@ -36,8 +36,6 @@
     * 실제로 관측된 데이터
 * `chi2, p, dof, ef = stats.chi2_contingency(..., correction=False)`
 
-## 회귀분석
-
 
 <br/>
 <br/>
