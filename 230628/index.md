@@ -1,6 +1,6 @@
 # 2023-06-28
 
-## crawling
+## Crawling
 * `import requests`
     * `requests.get(url)`
 * `import json`

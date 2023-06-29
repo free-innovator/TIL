@@ -45,3 +45,5 @@
   * 확률과 통계, SQL, django
 * 2023년 6월 28일
   * Crawling
+* 2023년 6월 29일
+  * Crawling
