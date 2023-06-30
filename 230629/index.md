@@ -47,3 +47,10 @@
         * 탭 닫기
     * `driver.quit()`
         * 브라우저 닫기
+* `from xml.etree import ElementTree`
+    * `ElementTree.fromstring(text)`
+    * `item.find('death').text`
+* json, requests
+    * `requests.post(url, data={"sido_cd": sido_cd})`
+    * `resp.json()["list"]`
+    * `json.dumps(result_dict, ensure_ascii=False)`
