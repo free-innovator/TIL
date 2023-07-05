@@ -49,3 +49,9 @@
   * Crawling, 확률과 통계, SQL
 * 2023년 6월 30일
   * SQL
+* 2023년 7월 3일
+  * 시각화(matplot, seaborn, plotly, folium, wordcloud)
+* 2023년 7월 4일
+  * numpy
+* 2023년 7월 5일
+  * pandas
