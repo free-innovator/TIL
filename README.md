@@ -55,3 +55,11 @@
   * numpy
 * 2023년 7월 5일
   * pandas
+* 2023년 7월 6일
+  * ML (Gradient Descent Algorithm)
+* 2023년 7월 7일
+  * ML (LinearRegression)
+* 2023년 7월 8일
+  * UX/UI
+* 2023년 7월 10일
+  * ML (PolynomialFeatures, Ridge, Lasso, ElasticNet)
