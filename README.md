@@ -63,3 +63,9 @@
   * UX/UI
 * 2023년 7월 10일
   * ML (PolynomialFeatures, Ridge, Lasso, ElasticNet)
+* 2023년 7월 11일
+  * metrics (평가지표)
+* 2023년 7월 12일
+  * 스케일링, SVC, CV, KFold
+* 2023년 7월 13일
+  * GaussianNB, KNN, DecisionTree
