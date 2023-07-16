@@ -69,3 +69,7 @@
   * 스케일링, SVC, CV, KFold
 * 2023년 7월 13일
   * GaussianNB, KNN, DecisionTree
+* 2023년 7월 14일
+  * 앙상블 학습 (Ensembel Learning), 베이지안 최적화
+* 2023년 7월 15일
+  * 잔차분석, 다중공선성 해결방법
