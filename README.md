@@ -77,3 +77,5 @@
   * 나이브베이즈 분류기, 의사결정나무, 연관성 분석
 * 2023년 7월 17일
   * 군집화, 인코더, NN(Neural Network), 파이프라인, 모델 save/load
+* 2023년 7월 18일
+  * SMOTE, Stacking, Perceptron, Activation function
