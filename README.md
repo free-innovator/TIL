@@ -79,3 +79,9 @@
   * 군집화, 인코더, NN(Neural Network), 파이프라인, 모델 save/load
 * 2023년 7월 18일
   * SMOTE, Stacking, Perceptron, Activation function
+* 2023년 7월 19일
+  * tensorflow.keras
+* 2023년 7월 20일
+  * 이미지 전처리(cv2)
+* 2023년 7월 21일
+  * CNN 관련 레이어(Conv2D, MaxPool2D, Rescaling, RandomFlip, RandomRotation, RandomZoom)

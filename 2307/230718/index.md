@@ -7,7 +7,6 @@
     * 각 모델들의 Predict 값을 쌓아서(Stacking) 모델로 학습하는 방법.
 
 ## DL
-
 * Perceptron
     * 선형 결합을 activation function에 통과시켜 아웃풋을 내는 데 사용하는 인경 신경망 모델
     * 편향 값으로 모델의 유연성을 높여준다.
