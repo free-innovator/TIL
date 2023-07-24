@@ -87,3 +87,5 @@
   * CNN 관련 레이어(Conv2D, MaxPool2D, Rescaling, RandomFlip, RandomRotation, RandomZoom)
 * 2023년 7월 22일
   * tensorflow를 GPU로 돌려보기
+* 2023년 7월 24일
+  * CNN, NLP
