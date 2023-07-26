@@ -90,4 +90,4 @@
 * 2023년 7월 24일
   * CNN, NLP
 * 2023년 7월 25일
-  * await.
+  * RNN, Tensor1, PyTorch
